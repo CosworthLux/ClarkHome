@@ -1,7 +1,7 @@
 body {
   background-image: url("../assets/SiteQRCode1.png");
   background-repeat: no-repeat;
-  background-size: 250px 250px;
+  background-size: 150px 150px;
   opacity: 0.5;
   background-position: bottom;
 }
